@@ -1,0 +1,6 @@
+README.md
+setup.py
+med_chat_bot.egg-info/PKG-INFO
+med_chat_bot.egg-info/SOURCES.txt
+med_chat_bot.egg-info/dependency_links.txt
+med_chat_bot.egg-info/top_level.txt
