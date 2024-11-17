@@ -8,7 +8,7 @@ Meta Llama2
 Pinecone
 
 Model Used:
-llama-2-7b-chat.ggmlv3.q2_0.bin
+sentence-transformers/all-MiniLM-L6-v2
 
 ## From the following link:
-https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/tree/main
+https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2
